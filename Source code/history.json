@@ -1,0 +1,194 @@
+[
+  {
+    "timestamp": "2026-04-25 19:34:05",
+    "source_label": "Manual Input",
+    "input_preview": "Transactional Net margin method (TNMM)  People!  X  Under this method, Profit (Net profit) earned by other players in the same industry under same or similar consideration taken in",
+    "ai_probability": 24.47,
+    "human_probability": 75.53,
+    "verdict": "Human-written",
+    "metrics": {
+      "Perplexity": 92.4543,
+      "Burstiness": 0.5297,
+      "Repetition": 0.226,
+      "Sentence Variance": 1.0,
+      "Vocabulary Richness": 0.4649
+    },
+    "summary": "Human-written based on more varied token probability, more uneven sentence rhythm, limited vocabulary variety."
+  },
+  {
+    "timestamp": "2026-04-25 19:32:07",
+    "source_label": "Manual Input",
+    "input_preview": "The idea of progress often feels like a straight line, but in reality, it behaves more like a winding path through unfamiliar terrain. Some days bring clarity and momentum, while o",
+    "ai_probability": 47.38,
+    "human_probability": 52.62,
+    "verdict": "Inconclusive",
+    "metrics": {
+      "Perplexity": 53.0333,
+      "Burstiness": 0.2292,
+      "Repetition": 0.0225,
+      "Sentence Variance": 0.3132,
+      "Vocabulary Richness": 0.7111
+    },
+    "summary": "Inconclusive based on more varied token probability, consistent sentence rhythm, strong vocabulary variety."
+  },
+  {
+    "timestamp": "2026-04-25 19:31:38",
+    "source_label": "DOCX: Coop2 final.docx",
+    "input_preview": "The \u201cDead Theory\u201d of Content: Investigating the psychological and economic impact of an internet increasingly populated by AI-generated content rather than human-created data     A",
+    "ai_probability": 48.82,
+    "human_probability": 51.18,
+    "verdict": "Inconclusive",
+    "metrics": {
+      "Perplexity": 35.5738,
+      "Burstiness": 0.3924,
+      "Repetition": 0.2705,
+      "Sentence Variance": 1.0,
+      "Vocabulary Richness": 0.3476
+    },
+    "summary": "Inconclusive based on more varied token probability, more uneven sentence rhythm, limited vocabulary variety."
+  },
+  {
+    "timestamp": "2026-04-25 19:30:38",
+    "source_label": "Manual Input",
+    "input_preview": "Hello how are you? what are you doing? what are your hobbies? where do you live? what is you age?",
+    "ai_probability": 50.99,
+    "human_probability": 49.01,
+    "verdict": "Inconclusive",
+    "metrics": {
+      "Perplexity": 14.0279,
+      "Burstiness": 0.0,
+      "Repetition": 0.2105,
+      "Sentence Variance": 0.0,
+      "Vocabulary Richness": 0.5
+    },
+    "summary": "Inconclusive based on lower perplexity, consistent sentence rhythm, limited vocabulary variety, prompt-like short questions reduced confidence."
+  },
+  {
+    "timestamp": "2026-04-25 19:09:00",
+    "source_label": "Manual Input",
+    "input_preview": "The false positive was coming from detector.py (line 57). It used a tiny synthetic classifier that treated short, repetitive question lists like \u201cwhat are you doing / where do you ",
+    "ai_probability": 32.8,
+    "human_probability": 67.2,
+    "verdict": "Human-written",
+    "metrics": {
+      "Perplexity": 150.7417,
+      "Burstiness": 0.7333,
+      "Repetition": 0.0,
+      "Sentence Variance": 1.0,
+      "Vocabulary Richness": 0.775
+    },
+    "summary": "Human-written based on more varied token probability, more uneven sentence rhythm, strong vocabulary variety."
+  },
+  {
+    "timestamp": "2026-04-25 19:08:40",
+    "source_label": "Manual Input",
+    "input_preview": "- The first transformer-based run may download model weights for `distilgpt2`. - Image uploads use OCR when Tesseract is installed and available on your system. - The detector comb",
+    "ai_probability": 38.85,
+    "human_probability": 61.15,
+    "verdict": "Inconclusive",
+    "metrics": {
+      "Perplexity": 162.6947,
+      "Burstiness": 0.2459,
+      "Repetition": 0.0,
+      "Sentence Variance": 0.1917,
+      "Vocabulary Richness": 0.7984
+    },
+    "summary": "Inconclusive based on more varied token probability, consistent sentence rhythm, strong vocabulary variety."
+  },
+  {
+    "timestamp": "2026-04-25 19:08:16",
+    "source_label": "Manual Input",
+    "input_preview": "Hello how are you? what are you doing? what are your hobbies? where do you live? what is you age?",
+    "ai_probability": 50.99,
+    "human_probability": 49.01,
+    "verdict": "Inconclusive",
+    "metrics": {
+      "Perplexity": 14.028,
+      "Burstiness": 0.0,
+      "Repetition": 0.2105,
+      "Sentence Variance": 0.0,
+      "Vocabulary Richness": 0.5
+    },
+    "summary": "Inconclusive based on lower perplexity, consistent sentence rhythm, limited vocabulary variety, prompt-like short questions reduced confidence."
+  },
+  {
+    "timestamp": "2026-04-25 19:02:55",
+    "source_label": "Manual Input",
+    "input_preview": "Hello how are you?  what are you doing?  what are your hobbie?  where do you live?  what is you age?",
+    "ai_probability": 95.96,
+    "human_probability": 4.04,
+    "verdict": "AI-generated",
+    "metrics": {
+      "Perplexity": 21.5907,
+      "Burstiness": 0.0,
+      "Repetition": 0.2105,
+      "Sentence Variance": 0.0,
+      "Vocabulary Richness": 0.4875
+    },
+    "summary": "AI-generated based on lower perplexity, consistent sentence rhythm, limited vocabulary variety."
+  },
+  {
+    "timestamp": "2026-04-25 19:02:44",
+    "source_label": "Manual Input",
+    "input_preview": "Hello how are you?  what are you doing?  what are your hobbies?  where do you live? what is you age?",
+    "ai_probability": 96.22,
+    "human_probability": 3.78,
+    "verdict": "AI-generated",
+    "metrics": {
+      "Perplexity": 17.1604,
+      "Burstiness": 0.0,
+      "Repetition": 0.2105,
+      "Sentence Variance": 0.0,
+      "Vocabulary Richness": 0.5
+    },
+    "summary": "AI-generated based on lower perplexity, consistent sentence rhythm, limited vocabulary variety."
+  },
+  {
+    "timestamp": "2026-04-25 19:02:43",
+    "source_label": "Manual Input",
+    "input_preview": "Hello how are you?  what are you doing?  what are your hobbies?  where do you live? what is you age?",
+    "ai_probability": 96.22,
+    "human_probability": 3.78,
+    "verdict": "AI-generated",
+    "metrics": {
+      "Perplexity": 17.1604,
+      "Burstiness": 0.0,
+      "Repetition": 0.2105,
+      "Sentence Variance": 0.0,
+      "Vocabulary Richness": 0.5
+    },
+    "summary": "AI-generated based on lower perplexity, consistent sentence rhythm, limited vocabulary variety."
+  },
+  {
+    "timestamp": "2026-04-25 19:02:19",
+    "source_label": "Manual Input",
+    "input_preview": "Hello how are you? what are you doing? what are your hobbies? where do you live? what is you age?",
+    "ai_probability": 96.46,
+    "human_probability": 3.54,
+    "verdict": "AI-generated",
+    "metrics": {
+      "Perplexity": 14.028,
+      "Burstiness": 0.0,
+      "Repetition": 0.2105,
+      "Sentence Variance": 0.0,
+      "Vocabulary Richness": 0.5
+    },
+    "summary": "AI-generated based on lower perplexity, consistent sentence rhythm, limited vocabulary variety."
+  },
+  {
+    "timestamp": "2026-04-24 00:09:05",
+    "source_label": "PDF: Coursera U43LYSTQ5NNM.pdf",
+    "input_preview": "4 Courses Introduction to Data Science and scikit-learn in Python Machine Learning Models in Science Neural Networks and Random Forests Capstone Project: Advanced AI for Drug Disco",
+    "ai_probability": 13.99,
+    "human_probability": 86.01,
+    "verdict": "Human-written",
+    "metrics": {
+      "Perplexity": 76.1876,
+      "Burstiness": 0.8801,
+      "Repetition": 0.1308,
+      "Sentence Variance": 1.0,
+      "Vocabulary Richness": 0.5578
+    },
+    "summary": "Human-written based on more varied token probability, more uneven sentence rhythm, strong vocabulary variety."
+  }
+]
